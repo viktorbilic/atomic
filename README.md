@@ -1,2 +1,2 @@
 # atomic
-Repository for atomic css project.
+First add design
